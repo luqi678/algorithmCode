@@ -1,40 +1,29 @@
 package com.myself.learn.algo.huawei.C2025;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 /**
- * P00385.华为od机试—猜密码
+ * P00298.华为od机试—高效货运
  * 2025C卷
  * difficulty:4
  * @author luqi
  */
-public class C385 {
+public class P00298 {
 
     /**
      * 全局静态 Scanner，方便在任何函数中使用
      */
     static Scanner sc = new Scanner(System.in);
 
+
     public static void main(String[] args) {
 
         if (sc.hasNext()) {
-            int[] number = Arrays.stream(sc.nextLine().trim().split(",")).map(String::trim).mapToInt(Integer::parseInt).toArray();
             int n = sc.nextInt();
-            if (n > number.length) {
-                System.out.println(-1);
-                return;
-            }
-
-
-
-
+            int m = sc.nextInt();
             System.out.println(n);
         }
         // 记得关闭（虽然机试不关也不报错，但这是好习惯）
         sc.close();
     }
-
-
-
 }
