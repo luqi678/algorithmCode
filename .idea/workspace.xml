@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0895629-525b-401c-a97a-a9d2e8e6e608" name="更改" comment="✨ [2026-01-08] 添加新特性: 202600119" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/helloword/Code/luqi678/algo" value="373U3n78QtyEPwE3bqL0kd9y9vB" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;luqi678&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/luqi678/algorithmCode.git&quot;,
+    &quot;accountId&quot;: &quot;a88ba718-aee2-41dc-b6c4-8729f291dd5f&quot;
+  }
+}</component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\helloword\tool\apache-maven-3.9.1\repository" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="D:\helloword\tool\apache-maven-3.9.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="groupByToolId" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="373U3n78QtyEPwE3bqL0kd9y9vB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/helloword/Code/luqi678/algo/src/main/java/com/myself/learn/algo/huawei/test_questions",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.43908045",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.AlibabaFindTreasureChest.executor": "Debug",
+    "应用程序.BinaryTreeTest.executor": "Debug",
+    "应用程序.BusinessMan.executor": "Debug",
+    "应用程序.C375.executor": "Debug",
+    "应用程序.C377.executor": "Debug",
+    "应用程序.C379.executor": "Debug",
+    "应用程序.C380.executor": "Debug",
+    "应用程序.C381.executor": "Debug",
+    "应用程序.C382.executor": "Debug",
+    "应用程序.C383.executor": "Debug",
+    "应用程序.C386.executor": "Debug",
+    "应用程序.C387.executor": "Debug",
+    "应用程序.C388.executor": "Debug",
+    "应用程序.C389.executor": "Debug",
+    "应用程序.C390.executor": "Debug",
+    "应用程序.C391.executor": "Debug",
+    "应用程序.C392.executor": "Debug",
+    "应用程序.C393.executor": "Debug",
+    "应用程序.C394.executor": "Debug",
+    "应用程序.C395.executor": "Debug",
+    "应用程序.C396.executor": "Debug",
+    "应用程序.C397.executor": "Debug",
+    "应用程序.C398.executor": "Debug",
+    "应用程序.C399.executor": "Debug",
+    "应用程序.C403.executor": "Debug",
+    "应用程序.C404.executor": "Debug",
+    "应用程序.C405.executor": "Debug",
+    "应用程序.C406.executor": "Debug",
+    "应用程序.C407.executor": "Debug",
+    "应用程序.C408.executor": "Debug",
+    "应用程序.C409.executor": "Debug",
+    "应用程序.C410.executor": "Debug",
+    "应用程序.C411.executor": "Debug",
+    "应用程序.C412.executor": "Debug",
+    "应用程序.C413.executor": "Debug",
+    "应用程序.C419.executor": "Debug",
+    "应用程序.C420.executor": "Debug",
+    "应用程序.C421.executor": "Debug",
+    "应用程序.C422.executor": "Debug",
+    "应用程序.C423.executor": "Debug",
+    "应用程序.C424.executor": "Debug",
+    "应用程序.C427.executor": "Debug",
+    "应用程序.C428.executor": "Debug",
+    "应用程序.C429.executor": "Debug",
+    "应用程序.C434.executor": "Debug",
+    "应用程序.C435.executor": "Debug",
+    "应用程序.C436.executor": "Debug",
+    "应用程序.C439.executor": "Debug",
+    "应用程序.C440.executor": "Debug",
+    "应用程序.C443.executor": "Debug",
+    "应用程序.C444.executor": "Debug",
+    "应用程序.C445.executor": "Debug",
+    "应用程序.C446.executor": "Debug",
+    "应用程序.C447.executor": "Debug",
+    "应用程序.C448.executor": "Debug",
+    "应用程序.C449.executor": "Debug",
+    "应用程序.C451.executor": "Debug",
+    "应用程序.C452.executor": "Debug",
+    "应用程序.C453.executor": "Debug",
+    "应用程序.C454.executor": "Debug",
+    "应用程序.C463.executor": "Debug",
+    "应用程序.DoubleC_4487.executor": "Debug",
+    "应用程序.DoubleC_478.executor": "Debug",
+    "应用程序.DoubleC_479.executor": "Debug",
+    "应用程序.DoubleC_480.executor": "Debug",
+    "应用程序.DoubleC_481.executor": "Debug",
+    "应用程序.DoubleC_482.executor": "Debug",
+    "应用程序.DoubleC_483.executor": "Debug",
+    "应用程序.DoubleC_485.executor": "Debug",
+    "应用程序.DoubleC_486.executor": "Debug",
+    "应用程序.DoubleC_488.executor": "Debug",
+    "应用程序.DoubleC_490.executor": "Debug",
+    "应用程序.DoubleC_491.executor": "Debug",
+    "应用程序.DoubleC_491_copy.executor": "Debug",
+    "应用程序.ImagesBroke_493.executor": "Debug",
+    "应用程序.JumpGrid1.executor": "Debug",
+    "应用程序.JumpGrid2.executor": "Debug",
+    "应用程序.ListNodeTest.executor": "Debug",
+    "应用程序.P00204.executor": "Debug",
+    "应用程序.P00307.executor": "Debug",
+    "应用程序.P00315.executor": "Debug",
+    "应用程序.P00331.executor": "Debug",
+    "应用程序.P00340.executor": "Debug",
+    "应用程序.P00367.executor": "Debug",
+    "应用程序.P00485.executor": "Debug",
+    "应用程序.P00491.executor": "Debug",
+    "应用程序.P00495.executor": "Debug",
+    "应用程序.P00496.executor": "Debug",
+    "应用程序.P004961.executor": "Debug",
+    "应用程序.P004962.executor": "Debug",
+    "应用程序.P004963.executor": "Debug",
+    "应用程序.P00497.executor": "Debug",
+    "应用程序.P00498.executor": "Debug",
+    "应用程序.P1023.executor": "Debug",
+    "应用程序.SmallFirend.executor": "Debug",
+    "应用程序.SmallFriend.executor": "Debug",
+    "应用程序.Special.executor": "Debug",
+    "应用程序.StringMatching.executor": "Debug",
+    "应用程序.TransportationTime.executor": "Debug",
+    "应用程序.VLAN.executor": "Debug",
+    "应用程序.temp1.executor": "Debug"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\helloword\Code\luqi678\algo\src\main\java\com\myself\learn\algo\huawei\test_questions" />
+      <recent name="D:\helloword\Code\luqi678\algo\src\main\java\com\myself\learn\algo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myself.learn.algo.huawei.two" />
+      <recent name="com.myself.learn.algo.huawei.C2025" />
+      <recent name="com.myself.learn.temp" />
+      <recent name="com.myself.learn.algo.huawei" />
+      <recent name="com.myself.learn.algo.huawei.test_questions.code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.P00331">
+    <configuration name="P00331" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myself.learn.algo.huawei.C2025.P00331" />
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.learn.algo.huawei.C2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P00340" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myself.learn.algo.huawei.C2025.P00340" />
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.learn.algo.huawei.C2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P00367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myself.learn.algo.huawei.C2025.P00367" />
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.learn.algo.huawei.C2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P004962" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myself.learn.algo.huawei.two.P004962" />
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.learn.algo.huawei.two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P004963" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myself.learn.algo.huawei.two.P004963" />
+      <module name="algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myself.learn.algo.huawei.two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myself.learn.algo.AlgoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.P00331" />
+        <item itemvalue="应用程序.P004963" />
+        <item itemvalue="应用程序.P004962" />
+        <item itemvalue="应用程序.P00367" />
+        <item itemvalue="应用程序.P00340" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26574.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26574.91" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d0895629-525b-401c-a97a-a9d2e8e6e608" name="更改" comment="" />
+      <created>1716341951967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716341951967</updated>
+      <workItem from="1747383820847" duration="30000" />
+      <workItem from="1766131054877" duration="5351000" />
+      <workItem from="1766388168993" duration="603000" />
+      <workItem from="1766389723274" duration="100921000" />
+      <workItem from="1766969867486" duration="38599000" />
+      <workItem from="1767237210370" duration="113127000" />
+      <workItem from="1767853358170" duration="62396000" />
+      <workItem from="1768266188629" duration="6676000" />
+      <workItem from="1768273748970" duration="1435000" />
+      <workItem from="1768275205686" duration="19041000" />
+      <workItem from="1768358876916" duration="71399000" />
+      <workItem from="1768804516143" duration="3589000" />
+      <workItem from="1768809913867" duration="4625000" />
+    </task>
+    <task id="LOCAL-00001" summary="🎉 [2025-12-19] 初始化提交: init">
+      <option name="closed" value="true" />
+      <created>1766134330355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766134330355</updated>
+    </task>
+    <task id="LOCAL-00002" summary="🙈 [2025-12-23] 添加或更新 : 二叉树部分代码">
+      <option name="closed" value="true" />
+      <created>1766482036414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766482036415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="⬇️ [2026-01-05] 依赖降级: 修改为java8">
+      <option name="closed" value="true" />
+      <created>1767594538012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767594538012</updated>
+    </task>
+    <task id="LOCAL-00004" summary="📝 [2026-01-05] 添加文档: 添加部分试题原题">
+      <option name="closed" value="true" />
+      <created>1767594728888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767594728888</updated>
+    </task>
+    <task id="LOCAL-00005" summary="✨ [2026-01-08] 添加新特性: 20260108">
+      <option name="closed" value="true" />
+      <created>1767872916636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767872916636</updated>
+    </task>
+    <task id="LOCAL-00006" summary="✨ [2026-01-08] 添加新特性: 20260113">
+      <option name="closed" value="true" />
+      <created>1768274776867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768274776867</updated>
+    </task>
+    <task id="LOCAL-00007" summary="✨ [2026-01-08] 添加新特性: 202600119">
+      <option name="closed" value="true" />
+      <created>1768808593426</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768808593426</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" [2025-12-19] 初始化提交: init" />
+    <MESSAGE value=" [2025-12-23] 添加或更新 : 二叉树部分代码" />
+    <MESSAGE value="⬇️ [2026-01-05] 依赖降级: 修改为java8" />
+    <MESSAGE value=" [2026-01-05] 添加文档: 添加部分试题原题" />
+    <MESSAGE value="✨ [2026-01-08] 添加新特性: 20260108" />
+    <MESSAGE value="✨ [2026-01-08] 添加新特性: 20260113" />
+    <MESSAGE value="✨ [2026-01-08] 添加新特性: 202600119" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ [2026-01-08] 添加新特性: 202600119" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myself/learn/algo/huawei/two/VLAN.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myself/learn/algo/huawei/doubleC/DoubleC_483.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myself/learn/algo/huawei/C2025/C452.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myself/learn/algo/huawei/C2025/C387.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myself/learn/algo/huawei/C2025/C387.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myself/learn/algo/huawei/C2025/C387.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myself/learn/algo/huawei/C2025/C387.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myself/learn/algo/huawei/C2025/C382.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algo$DoubleC_491_copy.ic" NAME="DoubleC_491_copy 覆盖结果" MODIFIED="1766738035466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.myself.learn.algo.huawei.doubleC.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algo$C410.ic" NAME="C410 覆盖结果" MODIFIED="1767855326249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.myself.learn.algo.huawei.C2025.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
