@@ -1,8 +1,9 @@
 package com.myself.learn.algo.huawei.C2025;
 
-import java.util.*;
+import java.util.Scanner;
 
 /**
+ *
  * P00425.华为od机试—快递投放问题
  * 2025C卷
  * difficulty:4

@@ -1,4 +1,4 @@
-package com.myself.learn.algo;
+package com.myself.learn.algo.threadCode;
 
 /**
  * @projectName（项目名称）:qljt_cosmic

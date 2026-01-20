@@ -1,4 +1,4 @@
-package com.myself.learn.algo;
+package com.myself.learn.algo.threadCode;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
