@@ -1,6 +1,7 @@
 package com.myself.learn.algo.huawei.TE1;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * 22- 最长公共前缀
@@ -19,9 +20,25 @@ public class TE22 {
     public static void main(String[] args) {
 
         if (sc.hasNext()) {
-            int n = sc.nextInt();
-            int m = sc.nextInt();
-            System.out.println(n);
+            StringBuffer sb = new StringBuffer();
+            String[] strs = sc.nextLine().trim().replaceAll("\\[\\s+]", "").split(",");
+            long l = Arrays.stream(strs).mapToLong(String::length).min().orElse(0);
+            for (long i = 0; i < l; i++) {
+                boolean flag = true;
+                Character c = null;
+                for (int j = 0; j < strs.length; j++) {
+                    c = c == null ? strs[j].charAt((int) i) : c;
+                    if (c != strs[j].charAt((int) i)) {
+                        flag = false;
+                        break;
+                    }
+                }
+                if (flag) {
+                    sb.append(c);
+                }
+            }
+            System.out.println(sb.toString());
+
         }
         // 记得关闭（虽然机试不关也不报错，但这是好习惯）
         sc.close();
