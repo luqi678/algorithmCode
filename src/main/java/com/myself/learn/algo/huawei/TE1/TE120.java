@@ -1,6 +1,7 @@
 package com.myself.learn.algo.huawei.TE1;
 
-import java.util.*;
+import java.util.Map;
+import java.util.TreeMap;
 
 /**
  * 120- 多数元素
@@ -10,20 +11,29 @@ import java.util.*;
  */
 public class TE120 {
 
-    /**
-     * 全局静态 Scanner，方便在任何函数中使用
-     */
-    static Scanner sc = new Scanner(System.in);
-
+    public int majorityElement(int[] nums) {
+        Map<Integer, Integer> map = new TreeMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            int num = nums[i];
+            Integer orDefault = map.getOrDefault(num, 0);
+            map.put(num, orDefault + 1);
+        }
+        int maxCount = 0;
+        int maxKey = 0;
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            Integer key = entry.getKey();
+            Integer value = entry.getValue();
+            if (value > maxCount) {
+                maxCount = value;
+                maxKey = key;
+            }
+        }
+        return maxKey;
+    }
 
     public static void main(String[] args) {
-
-        if (sc.hasNext()) {
-            int n = sc.nextInt();
-            int m = sc.nextInt();
-            System.out.println(n);
-        }
-        // 记得关闭（虽然机试不关也不报错，但这是好习惯）
-        sc.close();
+        int[] nums = {1, 2, 3, 2, 2, 2, 5, 4, 2};
+        System.out.println(new TE120().majorityElement(nums));
     }
+
 }
